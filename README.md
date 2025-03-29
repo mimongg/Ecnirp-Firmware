@@ -2,29 +2,21 @@ Ecnirp is a modular and lightweight firmware for ESP32 focused on wireless exper
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-✨ Features
+Features
 NRF24L01+ (Ebyte ML01DP5)
-
-HID desynchronization
-
-Constant carrier jamming
-
-Channel activity analyzer
-
-Autonomous attack engine
+            - HID desynchronization
+            - Constant carrier jamming
+            - Channel activity analyzer
+            - Autonomous attack engine
 
 CC1101 Sub-GHz Transceiver
-
-Sub-GHz signal work (future modules)
+            - Sub-GHz signal work (future modules)
 
 ESP32 Wi-Fi & Bluetooth
-
-Wi-Fi deauth attacks
-
-Bluetooth spoofing & scanning
+            - Wi-Fi deauth attacks
+            - Bluetooth spoofing & scanning
 
 SD Card File Browser (via TFT UI)
-
 View logs and files directly on display (non-touch)
 
 
