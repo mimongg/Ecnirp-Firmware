@@ -29,7 +29,7 @@ View logs and files directly on display (non-touch)
 🛠️ Built for Tinkerers & Script Authors
 This firmware was made to be hacked on. Whether you're adding new attacks, enhancing RF workflows, or scripting logic, contributions are welcome and appreciated.
 
-If you build on this project or use it in your own tools, a credit to the original author — Prince Rainier Solero Mercado — would be awesome. 🙌
+If you build on this project or use it in your own tools, a credit to the original author — Prince Rainier Mercado — would be awesome. 🙌
 
 ![0c6d4848-dfa2-4c58-96a2-3af7f936a3a7](https://github.com/user-attachments/assets/b4085fda-e23d-4b76-a734-778568584a4d)
 
