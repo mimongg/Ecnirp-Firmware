@@ -1,5 +1,4 @@
-Ecnirp Firmware
-Ecnirp is a modular firmware for ESP32 focused on wireless experimentation, RF signal analysis, and active attacks. It brings together multiple radios (NRF24L01+, CC1101, Wi-Fi, Bluetooth) under one UI-driven system with SD card support — designed for hands-on testing and tool development.
+Ecnirp is a modular and lightweight firmware for ESP32 focused on wireless experimentation, RF signal analysis, and active attacks. It brings together multiple radios (NRF24L01+, CC1101, Wi-Fi, Bluetooth) under one UI-driven system with SD card support — designed for hands-on testing and tool development.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
