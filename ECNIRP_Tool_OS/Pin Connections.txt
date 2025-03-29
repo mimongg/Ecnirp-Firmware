@@ -1,0 +1,29 @@
+--- TFT Display ---
+TFT         | ESP
+            |
+MISO        | 19
+LED         | 5v
+SCK         | 18
+MOSI        | 23
+DC          | 2
+RESET       | 4
+CS          | 15
+GND         | GND
+VCC         | 3.3v
+
+--- NRF24 Module ---
+NRF24       | ESP
+            |
+CE          | 16
+CSN         | 17
+SCK         | 18
+MISO        | 19
+MOSI        | 23
+
+--- Switch ---
+Row Pin = 25
+Up = 26
+Down = 27
+Right = 32
+Left = 33
+select = 5
